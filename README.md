@@ -27,7 +27,7 @@ I am a Junior Webdeveloper and currently expanding my skills in
 -Express
 
 ->> reach me at <a href="mailto:p.wulff887@gmail.com">p.wulff887@gmail.com</a><br>
-->> or on <a href="https://www.linkedin.com/in/devwulff/">Linkedin</a> [![LinkedIn][2.2]][2].
+->> or on <a href="https://www.linkedin.com/in/devwulff/">Linkedin</a> [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
