@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwulff&theme=dracula&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwulff&theme=dracula&include_all_commits" />
