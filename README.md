@@ -22,8 +22,10 @@ I am currently working on a Project for an Agency with React.js
 
 Make sure to check out all of my <a href="https://github.com/stars/devwulff/lists/projects">Projects</a>.
 
-I am a Junior Webdeveloper and currently expanding my skills in
+I am a Junior Webdeveloper and currently expanding my skills in:
+<br>
 -Node.js
+<br>
 -Express
 
 ->> reach me at <a href="mailto:p.wulff887@gmail.com">p.wulff887@gmail.com</a><br>
