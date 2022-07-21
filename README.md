@@ -27,6 +27,15 @@ I am a Junior Webdeveloper and currently expanding my skills in
 -Express
 
 ->> reach me at <a href="mailto:p.wulff887@gmail.com">p.wulff887@gmail.com</a>
+->> or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/devwulff/
 
 Hope you enjoy ♥️
 
