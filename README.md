@@ -18,15 +18,19 @@ Welcome on my site
 
 a collection of inspiration, ideas 💡 and trys 
 
-I am currently working on a Project for an Agency with React.js
+I am currently working on a Project for an Agency with TYPO3
 
 Make sure to check out all of my <a href="https://github.com/stars/devwulff/lists/projects">Projects</a>.
 
-I am a Junior Webdeveloper and currently expanding my skills in:
+I am a Fullstack Webdeveloper and currently expanding my skills in:
 <br>
--Node.js
+-TWIG
 <br>
--Express
+-Fluid
+<br>
+-Typescript
+<br>
+-PHP
 
 ->> reach me at <a href="mailto:p.wulff887@gmail.com">p.wulff887@gmail.com</a><br>
 ->> or on <a href="https://www.linkedin.com/in/devwulff/">Linkedin</a> [![LinkedIn][2.2]][2]
