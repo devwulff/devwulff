@@ -45,4 +45,4 @@ I am a Fullstack Webdeveloper and currently expanding my skills in:
 
 Hope you enjoy ♥️
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwulff&theme=transparent&include_all_commits" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwulff&layout=compact" />
