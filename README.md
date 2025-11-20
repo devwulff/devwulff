@@ -18,7 +18,7 @@ Welcome on my site
 
 a collection of inspiration, ideas 💡 and trys 
 
-I am currently working on a Project for an Agency with TYPO3
+I am currently working on Projects for an Agency with TYPO3
 
 Make sure to check out all of my <a href="https://github.com/stars/devwulff/lists/projects">Projects</a>.
 
@@ -45,4 +45,4 @@ I am a Fullstack Webdeveloper and currently expanding my skills in:
 
 Hope you enjoy ♥️
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwulff&theme=dracula&include_all_commits" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwulff&theme=transparent&include_all_commits" />
